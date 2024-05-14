@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+.one {
+    
+    background-color: grey;
+    text-align: center;
+
+}
+.one h1, h3{
+    padding-right: 20%;
+}
+
+.two{
+    background-color: grey;
+    text-align: center;
+
+
+}
+.img1 {
+    display: flex;
+    width: 15%;
+    padding-right: 80%;
+}
+.img2 {
+    display: flex;
+    width: 15%;
+    
